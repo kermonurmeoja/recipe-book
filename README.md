@@ -4,4 +4,4 @@ A collection of simple recipes.
 
 ## Recipes
 
-- No recipes yet
+- Recipes coming soon
