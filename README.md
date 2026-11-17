@@ -4,4 +4,4 @@ A collection of simple recipes.
 
 ## Recipes
 
-- No recipes yet
+- [Pancakes](recipes/pancakes.md)
